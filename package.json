@@ -1,0 +1,14 @@
+{
+  "name": "harsh-kumar-singh-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website of Harsh Kumar Singh",
+  "private": true,
+  "scripts": {
+    "start": "serve . -l 5500",
+    "dev": "live-server --port=5500"
+  },
+  "devDependencies": {
+    "serve": "^14.2.1",
+    "live-server": "^1.2.2"
+  }
+}
